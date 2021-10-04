@@ -17,19 +17,19 @@ function App() {
       <BrowserRouter>
       <Navber></Navber>
          <Switch>
-            <Route exact path = '/home'>
+            <Route exact path = '/'>
                 <Home></Home>
             </Route>
-            <Route path='/about'>
+            <Route exact path='/about'>
               <About></About>
             </Route>
-            <Route  path= '/services'>
+            <Route exact  path= '/services'>
               <Services></Services>
             </Route>
-            <Route  path = '/overview'>
+            <Route exact path = '/overview'>
               <ServicesDetails></ServicesDetails>
             </Route>
-            <Route path = '*'>
+            <Route exact path = '*'>
                <NotFound></NotFound>
             </Route>
          </Switch>
