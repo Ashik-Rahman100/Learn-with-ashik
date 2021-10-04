@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction To web Development",
+      "price": 20,
+      "img": "https://ugc.futurelearn.com/uploads/images/00/a9/thumbnail_00a9559c-83c3-487d-bf96-c0732521ee2c.jpg",
+      "owner": "Raspberry Pi Foundation",
+      "category": "Web Development",
+      "dis": "Discover web development and learn to build your own interactive websites using HTML, CSS, and JavaScript. Supported by Google."
+    },
+    {
+      "id": 2,
+      "title": "Using Javascript, jQuery,and json in Django",
+      "price": 22,
+      "img": "https://ugc.futurelearn.com/uploads/images/09/1b/thumbnail_091b7cd1-592b-4ce1-afe4-8ce581529d1f.jpg",
+      "owner": "University of Michigun",
+      "category": "Web Development",
+      "dis": "Understand how to use JavaScript, jQuery and JSON within the Django framework."
+    },
+    {
+      "id": 3,
+      "title": "Programming Application With Python",
+      "price": 15,
+      "img": "https://ugc.futurelearn.com/uploads/images/84/a8/thumbnail_84a86ee7-2a8e-41f5-be1a-e7c5afebbcd7.jpg",
+      "owner": "Future Learn",
+      "category": "Web Development",
+      "dis": "On the final course of this ExpertTrack, consider applications for APIs and Python, and explore the purpose of web scraping."
+    },
+    {
+      "id": 4,
+      "title": "Programming Applications with Python: Working with Files",
+      "price": 17,
+      "img": "https://ugc.futurelearn.com/uploads/images/34/18/thumbnail_3418e3b4-21bb-45a3-8d5b-fb2c78d65ed2.jpg",
+      "owner": "Future Learn",
+      "category": "Web Development",
+      "dis": "Discover how to read and create files and directories in Python, and how Python is used for data collection and exploration."
+    },
+    {
+      "id": 5,
+      "title": "Software Development Fundamentals: Programming Languages and HTML",
+      "price": 20,
+      "img": "https://ugc.futurelearn.com/uploads/images/e9/bc/thumbnail_e9bc1464-74f4-4411-9f68-bb26dbad00b5.jpg",
+      "owner": "Future Learn",
+      "category": "Web Development",
+      "dis": "Learn about software architecture and programming languages in this software development course."
+    },
+    {
+      "id": 6,
+      "title": "Software Development Fundamentals",
+      "price": 24,
+      "img": "https://ugc.futurelearn.com/uploads/images/af/7d/header_small_af7d4c28-f815-4764-9470-41b78661109b.jpg",
+      "owner": "Future Learn in collabarition with MuleSoft",
+      "category": "Softwere Development",
+      "dis": "Develop the foundations of a digital technology career, from Agile project management to HTML basics."
+    },
+    {
+      "id": 7,
+      "title": "Software Development with Python and Java",
+      "price": 20,
+      "img": "https://ugc.futurelearn.com/uploads/images/a0/cd/header_small_a0cd8c9e-4a78-4d8b-92ba-65467aedc1ba.jpg",
+      "owner": "Future Learn",
+      "category": "Softwere Development",
+      "dis": "Boost your software development career with this ExpertTrack on Python and Java"
+    },
+    {
+      "id": 8,
+      "title": "Software Development with Python and Java: Introducing Java",
+      "price": 27,
+      "img": "https://ugc.futurelearn.com/uploads/images/bf/0f/thumbnail_bf0fb15a-0d63-4486-9cba-d0a81a303e74.jpg",
+      "owner": "Future Learn",
+      "category": "softwere Development",
+      "dis": "Explore how Java can help support your software development career and learn its basic uses and functions."
+    },
+    {
+      "id": 9,
+      "title": "Artificial Intelligence: Distinguishing Between Fact and Fiction",
+      "price": 30,
+      "img": "https://ugc.futurelearn.com/uploads/images/5c/07/thumbnail_5c07c9d5-093d-4d22-8a84-5b4991324905.jpg",
+      "owner": "Conventery University & Institute Of Coding",
+      "category": "Artificial Intelligence",
+      "dis": "How well do you understand artificial intelligence (AI)? Explore how to separate the reality from the hype on this course."
+    },
+    {
+      "id": 10,
+      "title": "Artificial Intelligence in Bioinformatics",
+      "price": 40,
+      "img": "https://ugc.futurelearn.com/uploads/images/fa/ea/thumbnail_faea26aa-38d9-411d-808b-53eac1dd42f2.jpg",
+      "owner": "TaiPai Medical UNiversity",
+      "category": "Artificial Intelligence",
+      "dis": "Discover the future of bioinformatics and learn how AI models of bioinformatics data help us to understand biological processes."
+    },
+    {
+      "id": 11,
+      "title": "Artificial Intelligence for Healthcare: Opportunities and Challenges",
+      "price": 50,
+      "img": "https://ugc.futurelearn.com/uploads/images/1c/98/thumbnail_1c988cc2-4ac0-4bd9-a0b0-d813aae407d3.jpg",
+      "owner": "TaiPai Medical University",
+      "category": "Artificial Intelligence",
+      "dis": "The use of artificial intelligence (AI) in healthcare is increasing, explore the challenges and opportunities AI presents."
+    },
+    {
+      "id": 12,
+      "title": "AI Design and Engineering with Microsoft Azure",
+      "price": 30,
+      "img": "https://ugc.futurelearn.com/uploads/images/fd/57/header_small_fd57769a-40a3-460b-991b-baaefa50f1a7.jpg",
+      "owner": "cloudSwyft Global Systems , Inc",
+      "category": "Ai Designer",
+      "dis": "Develop AI Engineering skills using Microsoft Azure, on the path to role-based certifications."
+    },
+    {
+      "id": 13,
+      "title": "Ethical Hacking: An Introduction",
+      "price": 35,
+      "img": "https://ugc.futurelearn.com/uploads/images/d1/49/thumbnail_d149bae6-59c8-4136-b4a4-093b71851e24.jpg",
+      "owner": "Conventery University of Coding",
+      "category": "Ethical Hacking",
+      "dis": "Learn about software architecture and programming languages in this software development course."
+    },
+    {
+      "id": 14,
+      "title": "Introduction to Encryption and Cryptography",
+      "price": 50,
+      "img": "https://ugc.futurelearn.com/uploads/images/9a/13/thumbnail_9a1373e9-b031-4ff4-bbee-b4623d58906b.jpg",
+      "owner": "Raspbarry Pi Fundation & National Centre for Computing Education",
+      "category": "Ethical Hacking",
+      "dis": "Learn how encryption keeps information safe, and teach your students how it's used in the world today. Supported by Google."
+    },
+    {
+      "id": 15,
+      "title": "Data Analysis with Excel for Complete Beginners",
+      "price": 40,
+      "img": "https://ugc.futurelearn.com/uploads/images/d1/5c/header_small_d15ccfc7-24e3-4388-b34f-9cc8e50b8ab1.jpg",
+      "owner": "CloudSwyft Global System Inc",
+      "category": "Data Analysit",
+      "dis": "Learn data analysis from scratch, including an introduction to essential maths and Microsoft Excel."
+    }
+  ]

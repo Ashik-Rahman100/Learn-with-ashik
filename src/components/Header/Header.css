@@ -1,0 +1,25 @@
+
+  .banner {
+    margin-top: 0;
+    background-image: url("https://images.ctfassets.net/go6kr6r0ykrq/24H5WepCxEvczAVzuAlDg0/f875f6536f88d06547671acfa1022d2d/cs_feature_v2.png"),
+      linear-gradient(rgba(0, 0, 0, 0.397), rgba(0, 0, 0, 0));
+      height: 90vh;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .trail-btn {
+    background-color: #ff0505;
+    outline: none;
+    border: none;
+    padding: 14px 30px;
+    color: white;
+    border-radius: 8px;
+  }

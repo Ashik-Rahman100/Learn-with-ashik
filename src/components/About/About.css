@@ -1,0 +1,9 @@
+.about-container{
+    height: 600px;
+    text-align: center;
+    padding: 20px;
+}
+.half-width img{
+    height: 300px;
+    width: 350px;
+}
