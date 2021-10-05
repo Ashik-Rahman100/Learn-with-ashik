@@ -18,7 +18,7 @@ const About = () => {
                     <li>Database fundamentals using PostgreSQL</li>
                     <li>The math and architecture of computer science</li>
                 </ul>
-                <button className ='course-btn'>Learn More</button>
+                
                 
             </div>
         </div>

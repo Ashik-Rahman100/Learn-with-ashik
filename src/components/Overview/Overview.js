@@ -9,10 +9,7 @@ const Overview = () => {
         .then(res => res.json())
         .then(data => setOverView(data))
     },[])
-    
-    const cardStyle = {
 
-    }
 
     return (
         <div >
