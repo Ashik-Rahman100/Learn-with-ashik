@@ -1,13 +1,20 @@
 import React from 'react';
 import Header from '../Header/Header';
-import Services from '../Services/Services';
+import Overview from '../Overview/Overview';
+import About from '../About/About';
+import ServicesDetails from '../ServicesDetails/ServicesDetails'
+
+
 import './Home.css'
 
 const Home = () => {
+
     return (
-        <div>
+        <div className = 'home-container'>
             <Header></Header>
-            <Services></Services>
+            <Overview></Overview>
+            <About></About>
+            <ServicesDetails></ServicesDetails>
         </div>
     );
 };

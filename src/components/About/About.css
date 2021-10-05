@@ -1,4 +1,8 @@
 .about-container{
+    background-color: rgba(0, 0, 0, 0.938);
+    color: white;
+}
+.about-container{
     height: 600px;
     text-align: center;
     padding: 20px;

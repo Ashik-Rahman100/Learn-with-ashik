@@ -7,15 +7,16 @@ const Footer = () => {
             <div className="footer-container">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-5">
+                        <div className="col-md-4">
                             <div className="left-container text-start">  
-                               <h2>Learn with Ashik</h2>
-                                <p>Our Main Focus is Computer Science &&  Technology.  </p>
+                               <h3>Learn with Ashik</h3>
+                                <p>Focus with Computer Science &&  Technology.  </p>
                                 <p><small>Learn with Ashik © . All rights reserved.</small></p>
                             </div>
                         </div>
-                        <div className="col-md-2">
+                        <div className="col-md-4">
                             <div className="footer-menu-container">
+                                <h3>Navigate Our Site</h3>
                                 <ul className="menu-items">
                                     <li className="menu">Home</li>
                                     <li className="menu">Services</li>
@@ -24,15 +25,16 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-md-5">
+                        <div className="col-md-4">
                             <div className="contact-us">
-                                <h2>Contact Us With Our Platform</h2>
+                                <h3>Contact Us</h3>
                                  <input className='form-control mt-5'  type="text" placeholder ='please enter your email' />
                                  <h5 className= 'text-start text-danger'>Phone : +66 223 7999 12</h5>
                                  <div className ='address text-start'>
-                                     <p>Barishal, Patuakhali, Bangladesh</p>
-                                    <p>263, California USA</p>
-                                    <p>34, Sedni USA</p>
+                                    
+                                    <p> 95 Happiness Dr, Welaka, FL, 32193 California USA</p>
+                                    <p>1 Kudra Dr, Washington Crossing, Sedni USA</p>
+                                    
 
                                  </div>
 

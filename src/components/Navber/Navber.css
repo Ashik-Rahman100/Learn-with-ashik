@@ -7,11 +7,11 @@
 .items {
     list-style: none;
     margin-right: 30px;
-    font-size: 22px;
+    font-size: 17px;
     font-weight: 500;
     color: rgb(218, 214, 214);
     cursor: pointer;
-    padding: 5px;
+    padding: 15px;
     text-decoration: none;
    
   }

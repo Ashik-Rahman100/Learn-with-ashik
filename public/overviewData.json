@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction To web Development",
+        "price": 20,
+        "img": "https://ugc.futurelearn.com/uploads/images/00/a9/thumbnail_00a9559c-83c3-487d-bf96-c0732521ee2c.jpg",
+        "owner": "Raspberry Pi Foundation",
+        "category": "Web Development",
+        "dis": "Discover web development and learn to build your own interactive websites using HTML, CSS, and JavaScript. Supported by Google."
+      },
+      {
+        "id": 2,
+        "title": "Using Javascript, jQuery,and json in Django",
+        "price": 22,
+        "img": "https://ugc.futurelearn.com/uploads/images/09/1b/thumbnail_091b7cd1-592b-4ce1-afe4-8ce581529d1f.jpg",
+        "owner": "University of Michigun",
+        "category": "Web Development",
+        "dis": "Understand how to use JavaScript, jQuery and JSON within the Django framework."
+      },
+      {
+        "id": 3,
+        "title": "Programming Application With Python",
+        "price": 15,
+        "img": "https://ugc.futurelearn.com/uploads/images/84/a8/thumbnail_84a86ee7-2a8e-41f5-be1a-e7c5afebbcd7.jpg",
+        "owner": "Future Learn",
+        "category": "Web Development",
+        "dis": "On the final course of this ExpertTrack, consider applications for APIs and Python, and explore the purpose of web scraping."
+      }
+]

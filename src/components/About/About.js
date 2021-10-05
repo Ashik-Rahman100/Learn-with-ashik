@@ -1,10 +1,10 @@
 import React from 'react';
 import './About.css';
-import { Link } from 'react-router-dom';
 
 const About = () => {
     return (
         <div className ='about-container row'>
+             <h2 className = 'text-center mt-5  mb-4 text-light fw-bold'>About Us </h2>
             <div className="half-with col-md-6 ">
                 <img className="w-100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzVEtEAxBOyaQ2uwQjXOLzn_Xy5MMWUi-xdA&usqp=CAU" alt="" />
             </div>
@@ -18,7 +18,7 @@ const About = () => {
                     <li>Database fundamentals using PostgreSQL</li>
                     <li>The math and architecture of computer science</li>
                 </ul>
-                <Link><button className ='course-btn'>Learn More</button></Link>
+                <button className ='course-btn'>Learn More</button>
                 
             </div>
         </div>
