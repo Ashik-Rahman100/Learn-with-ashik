@@ -14,9 +14,9 @@ const About = () => {
 
                 <ul>
                     <p>You’ll learn:</p>
-                    <li>Python, data structures, and algorithms</li>
-                    <li>Database fundamentals using PostgreSQL</li>
-                    <li>The math and architecture of computer science</li>
+                    <p>Python, data structures, and algorithms</p>
+                    <p>Database fundamentals using PostgreSQL</p>
+                    <p>The math and architecture of computer science</p>
                 </ul>
                 
                 
